@@ -56,9 +56,15 @@
 
 ## 📊 GitHub Analytics  
 <div align="center" style="margin-top: 30px;">
-  <!-- Estilo de estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yojr23&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=6e48aa&icon_color=f5a623" height="180"/>
-  
+
+<!-- Estilo de estadísticas generales con logo de GitHub en lugar del rango -->
+<img src="https://github-readme-stats.vercel.app/api?username=yojr23&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=6e48aa&icon_color=f5a623&rank_icon=github" height="180"/>
+
+
+
+  <!-- Gráfico dinámico de contribuciones -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yojr23&theme=radical&bg_color=1a1a2e&title_color=6e48aa&color=f5a623" height="180"/>
+
   
   <!-- Estilo de lenguajes más utilizados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojr23&layout=compact&theme=radical&bg_color=1a1a2e&title_color=6e48aa" height="180"/>
