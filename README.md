@@ -1,13 +1,9 @@
 # 🚀 Welcome to My Cosmic Coding Hub!  
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Space_banner.jpg" width="100%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Space_banner.jpg" width="190%"/>
   <br><br>
-  <!-- Badges principales -->
-  <a href="mailto:juniorrincon1992@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-FF5252?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/juniorrincon1992/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yojr23"><img src="https://img.shields.io/badge/GitHub-yojr23-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-6e48aa?style=for-the-badge&logo=sparkles&logoColor=white">
+ 
 </div>
 
 ---
