@@ -12,7 +12,7 @@
 <div style="background: linear-gradient(to right, #0a0a2a, #1e1e3c); padding: 16px; border-radius: 12px; border-left: 5px solid #6e48aa;">
   <p>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" align="right">
-    Hi! I'm <span style="color: #4dccbd; font-weight: 700;">José Vicente Rincón Celis</span> — a <span style="color: #f5a623; font-weight: 600;">Systems Engineer</span> and Research Assistant passionate about <b>AI, IoT, and automation</b>.  
+    Hi! I'm <span style="color: #4dccbd; font-weight: 700;">José Rincón</span> — a <span style="color: #f5a623; font-weight: 600;">Systems Engineer</span> and Research Assistant passionate about <b>AI, IoT, and automation</b>.  
   </p>
 
   - 🔭 <span style="color: #ff9d5c;">Currently:</span> Research Assistant at the Smart Regions Center (CDT), consolidating 10 AI models (diagnostics, TRL, UI/UX, digital library) 🧠  
