@@ -1,126 +1,148 @@
-# 🚀 Welcome to My Cosmic Coding Hub!  
+# Jose Rincon
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Space_banner.jpg" width="190%"/>
-  <br><br>
- 
-</div>
-
----
-
-## 🌌 About Me  
-<div style="background: linear-gradient(to right, #0a0a2a, #1e1e3c); padding: 16px; border-radius: 12px; border-left: 5px solid #6e48aa;">
-  <p>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" align="right">
-    Hi! I'm <span style="color: #4dccbd; font-weight: 700;">José Rincón</span> — a <span style="color: #f5a623; font-weight: 600;">Systems Engineer</span> and Research Assistant passionate about <b>AI, IoT, and automation</b>.  
-  </p>
-
-  - 🔭 <span style="color: #ff9d5c;">Currently:</span> Research Assistant at the Smart Regions Center (CDT), consolidating 10 AI models (diagnostics, TRL, UI/UX, digital library) 🧠  
-  - 🌱 <span style="color: #6e48aa;">Learning:</span> Computer vision and data-driven UX for human–machine interaction 🎭  
-  - 💡 <span style="color: #4dccbd;">Passion:</span> Turning data into impact through robust engineering and clean architecture 🌍  
-</div>
-
-## 🧠 Professional Profile
-🎓 Final-year Systems Engineering student at **Universidad Autónoma de Bucaramanga** (UNAB).  
-🔬 Experience in **Python-based data analysis**, **IoT systems**, and **AI model integration**.  
-🧩 Focus on **clean architecture (MVC + services + events)**, **automation**, and **data-driven design**.
-
----
-
-## 🛠️ Tech Stack
-<div align="center" style="background: linear-gradient(135deg, #1e1e3c 0%, #2d2d5a 100%); padding: 18px; border-radius: 16px; box-shadow: 0 4px 8px rgba(109, 72, 170, 0.3);">
-
-<!-- Core Languages -->
-<p><b>🚀 Core Languages</b></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=4dccbd"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=f5a623"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ffdd59"/>
-
-<!-- Data & AI -->
-<p><b>🌌 Data & AI</b></p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=ff9d5c"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=d62d20"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=6e48aa"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<!-- Tools & Frameworks -->
-<p><b>🛸 Tools & Frameworks</b></p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=4dccbd"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=00d8ff"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=1e90ff"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects  
-
-### ──────────────────────────────────────────────  
-
-| 📌 Project | 🔍 Description | ⚙️ Tech Stack |
-|------------|----------------|---------------|
-| **[AGRIOT UX – Emotion Detection for UX Interviews](https://github.com/yojr23/Proyecto_vision-artificial-para-deteccion-de-emociones-en-entrevistas-ux)** <br/> <a href="https://github.com/yojr23/Proyecto_vision-artificial-para-deteccion-de-emociones-en-entrevistas-ux?tab=readme-ov-file#requerimientos-funcionales"><img src="https://raw.githubusercontent.com/yojr23/Proyecto_vision-artificial-para-deteccion-de-emociones-en-entrevistas-ux/refs/heads/main/img/mascota_agriot.png" width="220"/></a> | 🎥 PySide6 desktop app for UX research: video capture, time-marked questions, automatic fragmenting, CNN-based facial emotion analysis (TensorFlow), and PDF/CSV reporting. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=flat&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat) |
-| **[IoT Platform v2](https://github.com/yojr23/iot-platform-v2)** <br/> <a href="https://github.com/yojr23/iot-platform-v2"><img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="120"/></a> | 🌐 End-to-end IoT monitoring platform built with **Laravel 12** to manage classroom sensors, real-time dashboards, rule-based alerts, and secure API integrations. | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat&logo=pusher&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white) |
-| **[Hive – Social Event Networking](https://github.com/yojr23/Hive_proyecto_final)** <br/> <a href="https://github.com/yojr23/Hive_proyecto_final"><img src="https://t4.ftcdn.net/jpg/02/54/21/95/360_F_254219570_u5U3UOqvKqq8YfHcWq8ZrpBZbJ0iEjtz.jpg" width="120"/></a> | 📱 Mobile app for event check-ins via QR codes, real-time networking, and personalized recommendations. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MVVM](https://img.shields.io/badge/MVVM-007ACC?style=flat) ![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat&logo=google&logoColor=white) |
-| **[NumericalPy](https://github.com/yojr23/NumericalPy)** <br/> <a href="https://github.com/yojr23/NumericalPy"><img src="https://static.vecteezy.com/system/resources/previews/031/459/190/non_2x/linear-regression-icon-vector.jpg" width="120"/></a> | 📊 Numerical analysis toolkit with regression models, interpolation methods, and statistical tools. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) |
-| **[SuperPOS Retail System](https://github.com/yojr23/SuperPOS)** <br/> <a href="https://github.com/yojr23/SuperPOS"><img src="https://cdn-icons-png.flaticon.com/512/4459/4459384.png" width="120"/></a> | 🛒 Java-based Point of Sale system with inventory management, loyalty program, and automated promotions. | ![Java](https://img.shields.io/badge/Java%2017+-ED8B00?style=flat&logo=java&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-5382A1?style=flat) ![CSV](https://img.shields.io/badge/CSV-FFD700?style=flat) ![SOLID](https://img.shields.io/badge/SOLID-007ACC?style=flat) |
-
-
-### ──────────────────────────────────────────────  
-
----
-
-## 🏅 Certifications
-<details>
-  <summary><b>Click to expand</b></summary>
-  <br>
-
-  <!-- Enlace a Credly -->
-  <a href="https://www.credly.com/users/yojr23">
-    <img src="https://img.shields.io/badge/Verify%20All%20on-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-  <br><br>
-
-  - AWS Academy Graduate – Data Engineering  
-  - AWS Academy Graduate – Machine Learning Foundations  
-  - AWS Academy Graduate – Cloud Foundations  
-  - AWS Academy Graduate – Generative AI Foundations  
-  - AWS Academy Graduate – Machine Learning for NLP  
-  - Cisco Networking Academy – Introduction to Cybersecurity  
-  - Cisco Networking Academy – Introduction to IoT  
-  - NDG Linux Unhatched  
-  - Coursera – Introduction to HTML5
-</details>
-
----
-
-## 📊 GitHub Analytics  
-<div align="center" style="margin-top: 18px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yojr23&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=6e48aa&icon_color=f5a623&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojr23&layout=compact&theme=radical&bg_color=1a1a2e&title_color=6e48aa" height="180"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=yojr23&theme=radical&background=1a1a2e&ring=6e48aa&fire=f5a623&currStreakNum=ff9d5c&sideNums=4dccbd" height="150"/>
-</div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yojr23&label=Stellar%20Visitors&color=6e48aa&style=flat" alt="profile views"> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4DCCBD&center=true&vCenter=true&width=1000&lines=Backend+Developer+%C2%B7+AI%2FData+Builder+%C2%B7+IoT+Engineer;Production-minded+software+developer+who+ships+real+systems;Building+APIs%2C+computer+vision+tools%2C+and+real-time+platforms" alt="Typing intro" />
 </p>
 
----
+<p align="center">
+  <a href="mailto:juniorrincon1992@gmail.com"><img src="https://img.shields.io/badge/Email-juniorrincon1992%40gmail.com-FF5252?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yoj23/"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Rincon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/yojr23"><img src="https://img.shields.io/badge/GitHub-yojr23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.credly.com/users/yojr23"><img src="https://img.shields.io/badge/Credly-Certifications-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+</p>
 
-## 🌠 Let's Connect!  
-<div align="center">
-  <p>📬 For collaborations, research, or tech discussions:</p>
-  <a href="mailto:juniorrincon1992@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5252?style=for-the-badge&logo=gmail&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Full--time%20%7C%20Internship%20%7C%20Entry--level-4dccbd?style=flat-square" alt="Open to work">
+  <img src="https://img.shields.io/badge/Location-Bogota%2C%20Colombia-f5a623?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Languages-Spanish%20Native%20%7C%20English%20C1-6e48aa?style=flat-square" alt="Languages">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI%2FData%20%2B%20IoT-0a66c2?style=flat-square" alt="Focus">
+</p>
+
+## About Me
+
+I am a final-semester Systems Engineering student and software developer who enjoys building products that move from prototype to real-world use.
+
+- I have hands-on backend experience in fintech, AI/data systems, and IoT telemetry platforms.
+- I build production-minded software with clean architecture, APIs, async workflows, and pragmatic UX.
+- I have worked with NestJS, Laravel, Python, TensorFlow, PostgreSQL, Redis, AWS SQS, Firebase, and embedded/IoT integrations.
+- I tutor U.S. university students in Python, SQL, Java, Calculus, and Statistics in English.
+- I genuinely like Minesweeper, which says a lot about how much I enjoy patterns, speed, and disciplined problem-solving.
+
+## What I Bring
+
+| Area | What I have done |
+| --- | --- |
+| Backend engineering | Built and improved payment, collection, webhook, identity-verification, and event-driven flows in a fintech startup using NestJS, PostgreSQL, Redis, and AWS SQS |
+| AI and computer vision | Built an offline emotion-analysis workflow for UX interviews using TensorFlow, OpenCV, MediaPipe, FFmpeg, and PySide6 |
+| IoT systems | Built a real-time monitoring platform for sensors, alerts, dashboards, and API integrations with Laravel and Python |
+| Communication | Tutor technical subjects in English and translate complex technical concepts into clear, usable systems |
+
+## Experience Snapshot
+
+### Backend Developer - ParcePay
+- Built ON-US and OFF-US payment and collection flows for a fintech product.
+- Implemented APIs, DTO-based validation, webhooks, third-party integrations, and modular NestJS services.
+- Worked with PostgreSQL, Redis Pub/Sub, AWS SQS, Jest, Postman, and GitHub in a 3-person backend team.
+
+### Research Assistant - Smart Regions Center CDT
+- Consolidated and documented AI research assets across multiple models and technical initiatives.
+- Built support systems around AI models, UX evaluation, TRL analysis, and research continuity.
+
+### Tutor.com - Intermediate Tutor
+- Deliver one-on-one English-language tutoring to U.S. university students in Python, SQL, Java, Calculus, Statistics, and Linear Algebra.
+
+## Featured Projects
+
+| Project | Why it matters | What it demonstrates |
+| --- | --- | --- |
+| [IoT Platform v2](https://github.com/yojr23/iot-platform-v2) | A real-time IoT monitoring platform for sensor ingestion, alerting, dashboards, and secure API workflows | Laravel backend architecture, IoT ingestion, auth, rate limiting, structured logging, event-driven workflows |
+| [AGRIOT UX - Emotion Analysis for UX Interviews](https://github.com/yojr23/Proyecto_vision-artificial-para-deteccion-de-emociones-en-entrevistas-ux) | An offline-first desktop tool for capturing interviews, splitting video fragments, detecting facial emotions, and exporting reports | Python desktop engineering, computer vision, model integration, asynchronous processing, product thinking |
+| [WaveHands](https://github.com/yojr23/wavehands) | A gesture-controlled musical instrument that turns hand tracking into real-time sound generation and loop performance | Creative engineering, real-time systems, MediaPipe, OpenCV, DSP, modular Python architecture |
+| [Hive](https://github.com/yojr23/Hive_proyecto_final) | An Android event networking app with event discovery, QR check-ins, profiles, and cloud-backed workflows | Mobile app architecture, Firebase integration, MVVM thinking, product design, user flow implementation |
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+### Backend and Cloud
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SQS">
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### AI, Data, and Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/MediaPipe-009688?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+</p>
+
+### Tools and Product Work
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+## Certifications
+
+<details>
+  <summary><strong>View certifications</strong></summary>
+  <br>
+
+  <a href="https://www.credly.com/users/yojr23">
+    <img src="https://img.shields.io/badge/Verify%20on-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
   </a>
-  <a href="https://www.linkedin.com/in/juniorrincon1992/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+
+  - AWS Academy Graduate - Data Engineering
+  - AWS Academy Graduate - Machine Learning Foundations
+  - AWS Academy Graduate - Cloud Foundations
+  - AWS Academy Graduate - Generative AI Foundations
+  - AWS Academy Graduate - Machine Learning for NLP
+  - Cisco Networking Academy - Introduction to Cybersecurity
+  - Cisco Networking Academy - Introduction to IoT
+  - NDG Linux Unhatched
+  - Coursera - Introduction to HTML5
+</details>
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yojr23&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=6e48aa&icon_color=f5a623&rank_icon=github" height="180" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojr23&layout=compact&theme=radical&bg_color=1a1a2e&title_color=6e48aa" height="180" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yojr23&theme=radical&background=1a1a2e&ring=6e48aa&fire=f5a623&currStreakNum=ff9d5c&sideNums=4dccbd" height="160" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yojr23&label=Profile%20Views&color=6e48aa&style=flat" alt="Profile views">
+</p>
+
+## Let's Connect
+
+I am open to backend, AI/data, IoT, and product engineering opportunities where I can build useful systems, learn fast, and ship meaningful work.
+
+- Email: `juniorrincon1992@gmail.com`
+- LinkedIn: [linkedin.com/in/yoj23](https://www.linkedin.com/in/yoj23/)
+- GitHub: [github.com/yojr23](https://github.com/yojr23)
