@@ -26,7 +26,7 @@ I am a final-semester Systems Engineering student and software developer who enj
 - I build production-minded software with clean architecture, APIs, async workflows, and pragmatic UX.
 - I have worked with NestJS, Laravel, Python, TensorFlow, PostgreSQL, Redis, AWS SQS, Firebase, and embedded/IoT integrations.
 - I tutor U.S. university students in Python, SQL, Java, Calculus, and Statistics in English.
-- I genuinely like Minesweeper, which says a lot about how much I enjoy patterns, speed, and disciplined problem-solving.
+- Fun fact, I can complete Minesweeper in less that 97 seconds.
 
 ## What I Bring
 
